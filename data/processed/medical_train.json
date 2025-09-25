@@ -1,0 +1,475 @@
+{
+  "version": "v1.1",
+  "data": [
+    {
+      "title": "ctx_multidrug_resistant_tb_mdr_tb_10013b90",
+      "paragraphs": [
+        {
+          "context": "Drug resistance emerges when TB medicines are used inappropriately, through incorrect prescription by health care providers, poor quality drugs, or patients stopping treatment prematurely. MDR-TB is a form of TB caused by bacteria that do not respond to isoniazid and rifampicin, the two most effective first-line TB drugs. MDR-TB is treatable and curable by using other drugs, which tend to be more expensive and toxic. In some cases, extensively drug resistant TB or XDR-TB can develop. TB caused by bacteria that do not respond to the most effective drugs in MDR-TB treatment regimens can leave patients with very limited treatment options. MDR-TB remains a public health crisis and a health security threat. Only about 2 in 5 people with multidrug resistant TB accessed treatment in 2023. In accordance with WHO guidelines, detection of MDR-TB requires bacteriological confirmation of TB and testing for drug resistance using rapid molecular tests or culture methods. In 2022, new WHO guidelines prioritized a short 6-month all-oral regimen known as BPaLM/BPaL as a treatment of choice for eligible patients. Globally in 2023, 5646 people with MDR/RR-TB were reported to have been started treatment on the BPaLM/BPaL regimen, up from 1744 in 2022. The shorter duration, lower pill burden and high efficacy of this novel regimen can help ease the burden on health systems and save precious",
+          "qas": [
+            {
+              "id": "ctx_multidrug_resistant_tb_mdr_tb_10013b90_686483834",
+              "question": "What causes multidrug-resistant tb (mdr-tb)?",
+              "answers": [
+                {
+                  "text": "bacteria that do not respond to isoniazid and rifampicin, the two most effective first-line TB drugs",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_7766f728",
+      "paragraphs": [
+        {
+          "context": "Anaemia is a condition in which the number of red blood cells or the haemoglobin concentration within them is lower than normal. It mainly affects women and children. Anaemia occurs when there isn't enough haemoglobin in the body to carry oxygen to the organs and tissues. In severe cases, anaemia can cause poor cognitive and motor development in children. It can also cause problems for pregnant women and their babies. Anaemia can be caused by poor nutrition, infections, chronic diseases, heavy menstruation, pregnancy issues and family history. It is often caused by a lack of iron in the blood. Anaemia is preventable and treatable. In many low- and lower-middle income settings, the most commonly- recognized causes of anaemia are iron deficiency and malaria.",
+          "qas": [
+            {
+              "id": "ctx_overview_7766f728_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "poor nutrition, infections, chronic diseases, heavy menstruation, pregnancy issues and family history",
+                  "answer_start": 447
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_1be01ac0",
+      "paragraphs": [
+        {
+          "context": "Asthma is a chronic lung disease affecting people of all ages. It is caused by inflammation and muscle tightening around the airways, which makes it harder to breathe. Symptoms can include coughing, wheezing, shortness of breath and chest tightness. These symptoms can be mild or severe and can come and go over time. Although asthma can be a serious condition, it can be managed with the right treatment. People with symptoms of asthma should speak to a health professional.",
+          "qas": [
+            {
+              "id": "ctx_overview_1be01ac0_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "inflammation and muscle tightening around the airways, which makes it harder to breathe",
+                  "answer_start": 79
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_4b59bc7e",
+      "paragraphs": [
+        {
+          "context": "COVID-19 is the disease caused by the SARS-CoV-2 coronavirus. It usually spreads between people in close contact. COVID-19 vaccines provide strong protection against severe illness and death. Although a person can still get COVID-19 after vaccination, they are more likely to have mild or no symptoms. Anyone can get sick with COVID-19 and become seriously ill or die, but most people will recover without treatment. People over age 60 and those with existing medical conditions have a higher risk of getting seriously ill. These conditions include high blood pressure, diabetes, obesity, immunosuppression including HIV, cancer and pregnancy. Unvaccinated people also have a higher risk of severe symptoms.",
+          "qas": [
+            {
+              "id": "ctx_overview_4b59bc7e_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "the SARS-CoV-2 coronavirus",
+                  "answer_start": 34
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_68366c26",
+      "paragraphs": [
+        {
+          "context": "Cholera is an acute diarrheal infection caused by consuming food or water contaminated with the bacterium Vibrio cholerae. It is a global public health threat and indicates inequity and lack of social and economic development. Access to safe water, basic sanitation and hygiene is essential to prevent cholera and other waterborne diseases. Most people with cholera have mild or moderate diarrhoea and can be treated with oral rehydration solution (ORS). However, the disease can progress rapidly, so starting treatment quickly is vital to save lives. Patients with severe disease need intravenous fluids, ORS and antibiotics. Countries need strong epidemiological and laboratory surveillance to swiftly detect and monitor outbreaks and guide responses.",
+          "qas": [
+            {
+              "id": "ctx_overview_68366c26_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "consuming food or water contaminated with the bacterium Vibrio cholerae",
+                  "answer_start": 50
+                }
+              ]
+            },
+            {
+              "id": "ctx_overview_68366c26_234194807",
+              "question": "What is the treatment for overview?",
+              "answers": [
+                {
+                  "text": "oral rehydration solution (ORS)",
+                  "answer_start": 422
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_ba600c93",
+      "paragraphs": [
+        {
+          "context": "Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable. The infection is caused by a parasite and does not spread from person to person. Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing. Infants, children under 5 years, pregnant women and girls, travellers and people with HIV or AIDS are at higher risk of severe infection. Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse. Malaria mostly spreads to people through the bites of some infected female Anopheles mosquitoes. Blood transfusion and contaminated needles may also transmit malaria. The first symptoms may be mild, similar to many febrile illnesses, and difficulty to recognize as malaria. Left untreated, P. falciparum malaria can progress to severe illness and death within 24 hours. There are 5 Plasmodium parasite species that cause malaria in humans and 2 of these species - P. falciparum and P. vivax - pose the greatest threat. P. falciparum is the deadliest malaria parasite and the most prevalent on the African continent. P. vivax is the dominant malaria parasite in most countries outside of sub-Saharan Africa. The other malaria species which",
+          "qas": [
+            {
+              "id": "ctx_overview_ba600c93_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "a parasite and does not spread from person to person",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "id": "ctx_overview_ba600c93_221054695",
+              "question": "What are the symptoms of overview?",
+              "answers": [
+                {
+                  "text": "fever, chills and headache",
+                  "answer_start": 298
+                }
+              ]
+            },
+            {
+              "id": "ctx_overview_ba600c93_480780505",
+              "question": "How can overview be prevented?",
+              "answers": [
+                {
+                  "text": "avoiding mosquito bites and with medicines",
+                  "answer_start": 572
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_6a87e5af",
+      "paragraphs": [
+        {
+          "context": "Nipah virus (NiV) is a zoonotic virus (it is transmitted from animals to humans) and can also be transmitted through contaminated food or directly between people. In infected people, it causes a range of illnesses from asymptomatic (subclinical) infection to acute respiratory illness and fatal encephalitis. The virus can also cause severe disease in animals such as pigs, resulting in significant economic losses for farmers. Although Nipah virus has caused only a few known outbreaks in Asia, it infects a wide range of animals and causes severe disease and death in people, making it a public health concern.",
+          "qas": [
+            {
+              "id": "ctx_overview_6a87e5af_914031597",
+              "question": "How is overview transmitted?",
+              "answers": [
+                {
+                  "text": "contaminated food or directly between people",
+                  "answer_start": 117
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_59a99c5a",
+      "paragraphs": [
+        {
+          "context": "Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB cough, sneeze or spit. Tuberculosis is preventable and curable. About a quarter of the global population is estimated to have been infected with TB bacteria. About 5-10% of people infected with TB will eventually get symptoms and develop TB disease. Those who are infected but free of disease cannot transmit it. TB disease is usually treated with antibiotics and can be fatal without treatment. In certain countries, the Bacille Calmette-Guérin (BCG) vaccine is given to babies or small children to prevent TB. The vaccine prevents deaths from TB and protects children from serious forms of TB. Certain conditions can increase a person's risk for TB disease: diabetes (high blood sugar) weakened immune system (for example, from HIV or AIDS) being malnourished tobacco use harmful use of alcohol.",
+          "qas": [
+            {
+              "id": "ctx_overview_59a99c5a_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "bacteria that most often affects the lungs",
+                  "answer_start": 53
+                }
+              ]
+            },
+            {
+              "id": "ctx_overview_59a99c5a_234194807",
+              "question": "What is the treatment for overview?",
+              "answers": [
+                {
+                  "text": "antibiotics and can be fatal without treatment",
+                  "answer_start": 492
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_overview_1aaecd9a",
+      "paragraphs": [
+        {
+          "context": "Typhoid fever is a life-threatening infection caused by the bacterium Salmonella Typhi. It is usually spread through contaminated food or water. Once Salmonella Typhi bacteria are ingested, they multiply and spread into the bloodstream. Urbanization and climate change have the potential to increase the global burden of typhoid. In addition, increasing resistance to antibiotic treatment is making it easier for typhoid to spread in communities that lack access to safe drinking water or adequate sanitation.",
+          "qas": [
+            {
+              "id": "ctx_overview_1aaecd9a_516200917",
+              "question": "What causes overview?",
+              "answers": [
+                {
+                  "text": "the bacterium Salmonella Typhi",
+                  "answer_start": 56
+                }
+              ]
+            },
+            {
+              "id": "ctx_overview_1aaecd9a_914031597",
+              "question": "How is overview transmitted?",
+              "answers": [
+                {
+                  "text": "contaminated food or water",
+                  "answer_start": 117
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_prevention_00bea7d4",
+      "paragraphs": [
+        {
+          "context": "Malaria can be prevented by avoiding mosquito bites and by taking medicines. Talk to a doctor about taking medicines such as chemoprophylaxis before travelling to areas where malaria is common. Lower the risk of getting malaria by avoiding mosquito bites: Use mosquito nets when sleeping in places where malaria is present. Use mosquito repellents (containing DEET, IR3535 or Icaridin) after dusk. Use coils and vaporizers. Wear protective clothing. Use window screens.",
+          "qas": [
+            {
+              "id": "ctx_prevention_00bea7d4_793057805",
+              "question": "How can prevention be prevented?",
+              "answers": [
+                {
+                  "text": "avoiding mosquito bites and by taking medicines",
+                  "answer_start": 28
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_prevention_e1ce8c9c",
+      "paragraphs": [
+        {
+          "context": "People should get vaccinated as soon as it's their turn. They should follow local guidance on vaccination and ways to protect themselves against COVID-19. COVID-19 vaccines provide strong protection against serious illness, hospitalization and death. To prevent the spread of COVID-19: avoid crowds and keep a safe distance from others, even if they don't appear to be sick; wear a properly fitted mask if you feel sick, have been close to people who are sick, if you are at high-risk, or in crowded or poorly ventilated areas; clean your hands frequently with alcohol-based hand rub or soap and water; cover your mouth and nose with a bent elbow or tissue when you cough or sneeze; dispose of used tissues right away and clean your hands; and if you develop symptoms or test positive for COVID-19, self-isolate until you recover. Vaccination against COVID-19 is based on priority groups such as people aged 60 years and over, and those with underlying medical problems such as high blood pressure, diabetes, chronic health problems, immunosuppression (including HIV), obesity, cancer, pregnant persons, and unvaccinated people. In March 2023, WHO updated its recommendations on primary series vaccination (two doses of any vaccine) as well as the need for booster doses. These recommendations are time-limited and can change at any time depending on how the SARS-CoV-2 virus",
+          "qas": [
+            {
+              "id": "ctx_prevention_e1ce8c9c_793057805",
+              "question": "How can prevention be prevented?",
+              "answers": [
+                {
+                  "text": "self-isolate until you recover",
+                  "answer_start": 799
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_self_care_920e3752",
+      "paragraphs": [
+        {
+          "context": "People with asthma and their families need education to understand more about their asthma. This includes their treatment options, triggers to avoid, and how to manage their symptoms at home. It is important for people with asthma to know how to increase their treatment when their symptoms are worsening to avoid a serious attack. Healthcare providers may give an asthma action plan to help people with asthma to take greater control of their treatment.",
+          "qas": [
+            {
+              "id": "ctx_self_care_920e3752_557430243",
+              "question": "What are the symptoms of self-care?",
+              "answers": [
+                {
+                  "text": "worsening to avoid a serious attack",
+                  "answer_start": 295
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_signs_and_symptoms_aa34557b",
+      "paragraphs": [
+        {
+          "context": "People infected with plague usually develop acute febrile disease with other non-specific systemic symptoms after an incubation period of one to seven days, such as sudden onset of fever, chills, head and body aches, and weakness, vomiting and nausea. There are two main forms of plague infection, depending on the route of infection: bubonic and pneumonic. Bubonic plague is the most common form of plague and is caused by the bite of an infected flea. Plague bacillus, Y. pestis, enters at the bite and travels through the lymphatic system to the nearest lymph node where it replicates itself. The lymph node then becomes inflamed, tense and painful, and is called a 'bubo'. At advanced stages of the infection the inflamed lymph nodes can turn into open sores filled with pus. Human to human transmission of bubonic plague is rare. Bubonic plague can advance and spread to the lungs, which is the more severe type of plague called pneumonic plague. Pneumonic plague, or lung-based plague, is the most virulent form of plague. Incubation can be as short as 24 hours. Any person with pneumonic plague may transmit the disease via droplets to other humans. Untreated pneumonic plague, if not diagnosed and treated early, can be fatal. However, recovery rates are high if detected and treated in time (within 24 hours of",
+          "qas": [
+            {
+              "id": "ctx_signs_and_symptoms_aa34557b_585310615",
+              "question": "What causes signs and symptoms?",
+              "answers": [
+                {
+                  "text": "the bite of an infected flea",
+                  "answer_start": 424
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_signs_and_symptoms_in_humans_b0a0d0c2",
+      "paragraphs": [
+        {
+          "context": "Exposure to avian influenza viruses can lead to infection and disease in humans, ranging from mild, flu-like symptoms or eye inflammation to severe, acute respiratory disease and/or death. Disease severity will depend upon the virus causing the infection and the characteristics of the infected individual. Rarely, gastrointestinal and neurological symptoms have been reported. The case fatality rate for A(H5) and A(H7N9) subtype virus infections among humans is higher than that of seasonal influenza infections.",
+          "qas": [
+            {
+              "id": "ctx_signs_and_symptoms_in_humans_b0a0d0c2_866196374",
+              "question": "What can signs and symptoms in humans lead to?",
+              "answers": [
+                {
+                  "text": "infection and disease in humans, ranging from mild, flu-like symptoms or eye inflammation to severe, acute respiratory disease and/or death",
+                  "answer_start": 48
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_symptoms_072057d9",
+      "paragraphs": [
+        {
+          "context": "Salmonella Typhi lives only in humans. Persons with typhoid fever carry the bacteria in their bloodstream and intestinal tract. Symptoms include prolonged high fever, fatigue, headache, nausea, abdominal pain, and constipation or diarrhoea. Some patients may have a rash. Severe cases may lead to serious complications or even death. Typhoid fever can be confirmed through blood testing.",
+          "qas": [
+            {
+              "id": "ctx_symptoms_072057d9_616138668",
+              "question": "What are the symptoms of symptoms?",
+              "answers": [
+                {
+                  "text": "prolonged high fever, fatigue, headache, nausea, abdominal pain, and constipation or diarrhoea",
+                  "answer_start": 145
+                }
+              ]
+            },
+            {
+              "id": "ctx_symptoms_072057d9_647091545",
+              "question": "What can symptoms lead to?",
+              "answers": [
+                {
+                  "text": "serious complications or even death",
+                  "answer_start": 297
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_symptoms_c940acd0",
+      "paragraphs": [
+        {
+          "context": "Symptoms of asthma can vary from person to person. Symptoms sometimes get significantly worse. This is known as an asthma attack. Symptoms are often worse at night or during exercise. Common symptoms of asthma include: a persistent cough, especially at night wheezing when exhaling and sometimes when inhaling shortness of breath or difficulty breathing, sometimes even when resting chest tightness, making it difficult to breathe deeply. Some people will have worse symptoms when they have a cold or during changes in the weather. Other triggers can include dust, smoke, fumes, grass and tree pollen, animal fur and feathers, strong soaps and perfume. Symptoms can be caused by other conditions as well. People with symptoms should talk to a healthcare provider.",
+          "qas": [
+            {
+              "id": "ctx_symptoms_c940acd0_71935024",
+              "question": "What causes symptoms?",
+              "answers": [
+                {
+                  "text": "other conditions as well",
+                  "answer_start": 679
+                }
+              ]
+            },
+            {
+              "id": "ctx_symptoms_c940acd0_616138668",
+              "question": "What are the symptoms of symptoms?",
+              "answers": [
+                {
+                  "text": "often worse at night or during exercise",
+                  "answer_start": 143
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_symptoms_438de0ba",
+      "paragraphs": [
+        {
+          "context": "The most common early symptoms of malaria are fever, headache and chills. Symptoms usually start within 10-15 days of getting bitten by an infected mosquito. Symptoms may be mild for some people, especially for those who have had a malaria infection before. Because some malaria symptoms are not specific, getting tested early is important. Some types of malaria can cause severe illness and death. Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk. Severe symptoms include: extreme tiredness and fatigue impaired consciousness multiple convulsions difficulty breathing dark or bloody urine jaundice (yellowing of the eyes and skin) abnormal bleeding. People with severe symptoms should get emergency care right away. Getting treatment early for mild malaria can stop the infection from becoming severe. Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight.",
+          "qas": [
+            {
+              "id": "ctx_symptoms_438de0ba_616138668",
+              "question": "What are the symptoms of symptoms?",
+              "answers": [
+                {
+                  "text": "not specific, getting tested early is important",
+                  "answer_start": 292
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_treatment_and_prevention_dd9e267a",
+      "paragraphs": [
+        {
+          "context": "The treatment and prevention of anaemia depend on the underlying cause of the condition. There are many effective ways to treat and prevent anaemia. Changes in diet can help reduce anaemia in some cases, including: eating foods that are rich in iron, folate, vitamin B12, vitamin A, and other nutrients eating a healthy diet with a variety of foods taking supplements if a qualified health-care provider recommends them. Other health conditions can cause anaemia. Actions include: prevent and treat malaria prevent and treat schistosomiasis and other infections caused by soil-transmitted helminths (parasitic worms) get vaccinated and practice good hygiene to prevent infections manage chronic diseases like obesity and digestive problems wait at least 24 months between pregnancies and use birth control to prevent unintended pregnancies prevent and treat heavy menstrual bleeding and haemorrhage before or after birth delay umbilical cord clamping after childbirth (not earlier than 1 minute) treat inherited red blood cell disorders like sickle-cell disease and thalassemia.",
+          "qas": [
+            {
+              "id": "ctx_treatment_and_prevention_dd9e267a_2455454",
+              "question": "What causes treatment and prevention?",
+              "answers": [
+                {
+                  "text": "soil-transmitted helminths (parasitic worms) get vaccinated and practice good hygiene to prevent infections manage chronic diseases like obesity and digestive problems wait at least 24 months between pregnancies and use birth control to prevent unintended pregnancies prevent and treat heavy menstrual bleeding and haemorrhage before or after birth delay umbilical cord clamping after childbirth (not earlier than 1 minute) treat inherited red blood cell disorders like sickle-cell disease and thalassemia",
+                  "answer_start": 572
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_vibrio_cholerae_strains_16b837a4",
+      "paragraphs": [
+        {
+          "context": "Only two serogroups, O1 and O139, cause cholera outbreaks. V. cholerae O1 has caused all recent outbreaks. V. cholerae O139 caused outbreaks in Asia in the past but has recently only been identified in sporadic cases. There is no difference in the illness caused by the two serogroups.",
+          "qas": [
+            {
+              "id": "ctx_vibrio_cholerae_strains_16b837a4_244434754",
+              "question": "What causes vibrio cholerae strains?",
+              "answers": [
+                {
+                  "text": "the two serogroups",
+                  "answer_start": 266
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_who_response_95857d2a",
+      "paragraphs": [
+        {
+          "context": "WHO is supporting affected and at risk countries with technical guidance on how to manage outbreaks of Nipah virus and on how to prevent their occurrence. The risk of international transmission via fruits or fruit products (such as raw date palm juice) contaminated with urine or saliva from infected fruit bats can be prevented by washing them thoroughly and peeling them before consumption. Fruit with signs of bat bites should be discarded.",
+          "qas": [
+            {
+              "id": "ctx_who_response_95857d2a_31062893",
+              "question": "How can who response be prevented?",
+              "answers": [
+                {
+                  "text": "washing them thoroughly and peeling them before consumption",
+                  "answer_start": 332
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

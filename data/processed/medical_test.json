@@ -1,0 +1,95 @@
+{
+  "version": "v1.1",
+  "data": [
+    {
+      "title": "ctx_causes_dd8e5925",
+      "paragraphs": [
+        {
+          "context": "Anaemia is diagnosed based on blood haemoglobin concentrations falling below specified thresholds established based on age, sex, and physiological status. It is considered a symptom of an underlying condition(s). Anaemia may be caused by several factors: nutrient deficiencies, inadequate diet (or the inadequate absorption of nutrients), infections, inflammation, chronic diseases, gynaecological and obstetric conditions, and inherited red blood cell disorders. Iron deficiency, primarily due to inadequate dietary iron intake, is considered the most common nutritional deficiency leading to anaemia. Deficiencies in vitamin A, folate, vitamin B12 and riboflavin can also result in anaemia due to their specific roles in the synthesis of haemoglobin and/or erythrocyte production. Additional mechanisms include nutrient losses (e.g. blood loss from parasitic infections, haemorrhage associated with childbirth, or menstrual loss), impaired absorption, low iron stores at birth, and nutrient interactions affecting iron bioavailability. Infections can be another important cause of anaemia, depending on the local burden of infectious diseases, such as malaria, tuberculosis, HIV and parasitic infections. Infections can impair nutrient absorption and metabolism (e.g. malaria, ascariasis) or can cause nutrient loss (e.g. schistosomiasis, hookworm infection). Many different chronic conditions can cause inflammation and lead to anaemia of inflammation or anaemia of chronic disease. HIV infection causes anaemia through a wide range of mechanisms including ineffective production or excessive destruction of red blood cells, blood loss,",
+          "qas": [
+            {
+              "id": "ctx_causes_dd8e5925_963269062",
+              "question": "What causes causes?",
+              "answers": [
+                {
+                  "text": "several factors: nutrient deficiencies, inadequate diet (or the inadequate absorption of nutrients), infections, inflammation, chronic diseases, gynaecological and obstetric conditions, and inherited red blood cell disorders",
+                  "answer_start": 238
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_impact_ef49bb9f",
+      "paragraphs": [
+        {
+          "context": "Asthma is often under-diagnosed and under-treated, particularly in low- and middle-income countries. People with under-treated asthma can suffer sleep disturbance, tiredness during the day, and poor concentration. Asthma sufferers and their families may miss school and work, with financial impact on the family and wider community. If symptoms are severe, people with asthma may need to receive emergency health care and they may be admitted to hospital for treatment and monitoring. In the most severe cases, asthma can lead to death.",
+          "qas": [
+            {
+              "id": "ctx_impact_ef49bb9f_524403453",
+              "question": "What are the symptoms of impact?",
+              "answers": [
+                {
+                  "text": "severe, people with asthma may need to receive emergency health care and they may be admitted to hospital for treatment and monitoring",
+                  "answer_start": 349
+                }
+              ]
+            },
+            {
+              "id": "ctx_impact_ef49bb9f_74750009",
+              "question": "What can impact lead to?",
+              "answers": [
+                {
+                  "text": "death",
+                  "answer_start": 530
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_risk_factors_60190c37",
+      "paragraphs": [
+        {
+          "context": "Modifiable risk factors include unhealthy diets (excessive salt consumption, a diet high in saturated fat and trans fats, low intake of fruits and vegetables), physical inactivity, consumption of tobacco and alcohol, and being overweight or obese. In addition, there are environmental risk factors for hypertension and associated diseases, where air pollution is the most significant. \nNon-modifiable risk factors include a family history of hypertension, age over 65 years and co-existing diseases such as diabetes or kidney disease.",
+          "qas": [
+            {
+              "id": "ctx_risk_factors_60190c37_699411181",
+              "question": "Who is at risk for risk factors?",
+              "answers": [
+                {
+                  "text": "unhealthy diets (excessive salt consumption, a diet high in saturated fat and trans fats, low intake of fruits and vegetables), physical inactivity, consumption of tobacco and alcohol, and being overweight or obese",
+                  "answer_start": 32
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_treatment_375689a0",
+      "paragraphs": [
+        {
+          "context": "Cholera is an easily treatable disease. Most people can be treated successfully with prompt ORS administration. Severely dehydrated patients are at risk of dying from dehydration and need rapid intravenous fluids. They also receive oral rehydration solution and antibiotics. Patients with underlying conditions or comorbidities may require additional care in specific treatment centres. The case fatality rate in treatment centres should remain below 1%. Community access to ORS is essential during a cholera outbreak. Mass administration of antibiotics to prevent cholera (chemoprophylaxis) is not recommended, as it has no proven effect on the spread of cholera and may contribute to antimicrobial resistance.",
+          "qas": [
+            {
+              "id": "ctx_treatment_375689a0_758814315",
+              "question": "How can treatment be prevented?",
+              "answers": [
+                {
+                  "text": "as it has no proven effect on the spread of cholera and may contribute to antimicrobial resistance",
+                  "answer_start": 612
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

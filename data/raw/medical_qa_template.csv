@@ -1,0 +1,6 @@
+context_id,context_text,question,answer_text,answer_start,q_type,split
+ctx01,PASTE full paragraph 1 here ...,Example question 1 for paragraph 1?,exact span from paragraph 1,,definition,
+ctx01,PASTE full paragraph 1 here ...,Example question 2 for paragraph 1?,another exact span,,symptoms,
+ctx01,PASTE full paragraph 1 here ...,Example question 3 for paragraph 1?,third exact span,,treatment,
+ctx02,PASTE full paragraph 2 here ...,Example question 1 for paragraph 2?,exact span from paragraph 2,,prevention,
+ctx02,PASTE full paragraph 2 here ...,Example question 2 for paragraph 2?,another exact span from paragraph 2,,risk,

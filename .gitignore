@@ -1,0 +1,28 @@
+# Ignore model checkpoints and weights
+models/
+outputs/train_run/
+
+# Common large file formats
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.tar.gz
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Colab / Jupyter artifacts
+.ipynb_checkpoints/
+*.ipynb_save
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

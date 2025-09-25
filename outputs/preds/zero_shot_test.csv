@@ -1,0 +1,22 @@
+id,prediction_text
+ctx_overview_68366c26_516200917,consuming food or water contaminated with the bacterium Vibrio cholerae
+ctx_overview_68366c26_234194807,oral rehydration solution (ORS)
+ctx_treatment_375689a0_758814315,Mass administration of antibiotics to prevent cholera
+ctx_overview_4b59bc7e_516200917,SARS-CoV-2 coronavirus
+ctx_risk_factors_60190c37_699411181,age over 65 years
+ctx_overview_ba600c93_516200917,a parasite
+ctx_overview_ba600c93_221054695,"Mild symptoms are fever, chills and headache"
+ctx_overview_ba600c93_480780505,by avoiding mosquito bites and with medicines
+ctx_prevention_00bea7d4_793057805,by avoiding mosquito bites and by taking medicines
+ctx_impact_ef49bb9f_524403453,financial impact
+ctx_impact_ef49bb9f_74750009,financial impact
+ctx_self_care_920e3752_557430243,manage their symptoms at home
+ctx_causes_dd8e5925_963269062,nutrient deficiencies
+ctx_overview_6a87e5af_914031597,from animals to humans
+ctx_who_response_95857d2a_31062893,washing them thoroughly and peeling them before consumption
+ctx_signs_and_symptoms_aa34557b_585310615,"sudden onset of fever, chills, head and body aches, and weakness, vomiting and nausea"
+ctx_symptoms_072057d9_616138668,"prolonged high fever, fatigue, headache, nausea, abdominal pain, and constipation or diarrhoea"
+ctx_symptoms_072057d9_647091545,death
+ctx_overview_59a99c5a_516200917,bacteria
+ctx_overview_59a99c5a_234194807,antibiotics
+ctx_multidrug_resistant_tb_mdr_tb_10013b90_686483834,"bacteria that do not respond to isoniazid and rifampicin, the two most effective first-line TB drugs"

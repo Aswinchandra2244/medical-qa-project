@@ -1,0 +1,145 @@
+{
+  "version": "v1.1",
+  "data": [
+    {
+      "title": "ctx_complications_of_uncontrolled_hy_6663a9b2",
+      "paragraphs": [
+        {
+          "context": "Among other complications, hypertension can cause serious damage to the heart. Excessive pressure can harden arteries, decreasing the flow of blood and oxygen to the heart. This elevated pressure and reduced blood flow can cause: chest pain, also called angina; heart attack, which occurs when the blood supply to the heart is blocked and heart muscle cells die from lack of oxygen. The longer the blood flow is blocked, the greater the damage to the heart; heart failure, which occurs when the heart cannot pump enough blood and oxygen to other vital body organs; and irregular heart beat which can lead to a sudden death. Hypertension can also burst or block arteries that supply blood and oxygen to the brain, causing a stroke. In addition, hypertension can cause kidney damage, leading to kidney failure.",
+          "qas": [
+            {
+              "id": "ctx_complications_of_uncontrolled_hy_6663a9b2_579166364",
+              "question": "What can complications of uncontrolled hypertension lead to?",
+              "answers": [
+                {
+                  "text": "a sudden death",
+                  "answer_start": 608
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_global_task_force_on_cholera_con_4e68f3e9",
+      "paragraphs": [
+        {
+          "context": "The Global Task Force on Cholera Control (GTFCC) is a partnership of governmental and nongovernmental organizations, UN agencies and academic institutions with a common mission to reduce the global cholera burden. The GTFCC Secretariat is hosted by WHO. GTFCC partners work to: develop global strategies for cholera prevention and control; support countries in long-term control or elimination of cholera through the development of national cholera plans (NCPs); develop and disseminate technical guidelines and operational manuals; support a research agenda to evaluate innovative approaches to cholera prevention and control in affected countries; and increase the visibility of cholera as an important global public health problem.",
+          "qas": [
+            {
+              "id": "ctx_global_task_force_on_cholera_con_4e68f3e9_328956681",
+              "question": "What is global task force on cholera control?",
+              "answers": [
+                {
+                  "text": "partnership of governmental and nongovernmental organizations, UN agencies and academic institutions with a common mission to reduce the global cholera burden",
+                  "answer_start": 54
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_nipah_virus_in_domestic_animals_cb347373",
+      "paragraphs": [
+        {
+          "context": "Outbreaks of the Nipah virus in pigs and other domestic animals such as horses, goats, sheep, cats and dogs were first reported during the initial Malaysian outbreak in 1999. The virus is highly contagious in pigs. Pigs are infectious during the incubation period, which lasts from 4 to 14 days. An infected pig can exhibit no symptoms, but some develop acute feverish illness, labored breathing, and neurological symptoms such as trembling, twitching and muscle spasms. Generally, mortality is low except in young piglets. These symptoms are not dramatically different from other respiratory and neurological illnesses of pigs. Nipah virus should be suspected if pigs also have an unusual barking cough or if human cases of encephalitis are present. For more information of Nipah in animals, see the webpage on Nipah.",
+          "qas": [
+            {
+              "id": "ctx_nipah_virus_in_domestic_animals_cb347373_289780290",
+              "question": "What are the symptoms of nipah virus in domestic animals?",
+              "answers": [
+                {
+                  "text": "not dramatically different from other respiratory and neurological illnesses of pigs",
+                  "answer_start": 543
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_plague_5541b695",
+      "paragraphs": [
+        {
+          "context": "Plague is an infectious disease caused by the bacteria Yersinia pestis, a zoonotic bacteria, usually found in small mammals and their fleas. It is transmitted between animals through fleas. Humans can be infected through: the bite of infected vector fleas unprotected contact with infectious bodily fluids or contaminated materials the inhalation of respiratory droplets/small particles from a patient with pneumonic plague. Plague is a very severe disease in people, particularly in its septicaemic (systemic infection caused by circulating bacteria in bloodstream) and pneumonic forms, with a case-fatality ratio of 30% to 100% if left untreated. The pneumonic form is invariably fatal unless treated early. It is especially contagious and can trigger severe epidemics through person-to-person contact via droplets in the air. Historically, plague was responsible for widespread pandemics with high mortality. It was known as the \"Black Death\" during the fourteenth century, causing more than 50 million deaths in Europe. Nowadays, plague is easily treated with antibiotics and the use of standard precautions to prevent acquiring infection.",
+          "qas": [
+            {
+              "id": "ctx_plague_5541b695_601388514",
+              "question": "What is plague?",
+              "answers": [
+                {
+                  "text": "infectious disease caused by the bacteria Yersinia pestis, a zoonotic bacteria, usually found in small mammals and their fleas",
+                  "answer_start": 13
+                }
+              ]
+            },
+            {
+              "id": "ctx_plague_5541b695_564433630",
+              "question": "What causes plague?",
+              "answers": [
+                {
+                  "text": "the bacteria Yersinia pestis, a zoonotic bacteria, usually found in small mammals and their fleas",
+                  "answer_start": 42
+                }
+              ]
+            },
+            {
+              "id": "ctx_plague_5541b695_675638307",
+              "question": "What is the treatment for plague?",
+              "answers": [
+                {
+                  "text": "antibiotics and the use of standard precautions to prevent acquiring infection",
+                  "answer_start": 1064
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_treatment_762c0f24",
+      "paragraphs": [
+        {
+          "context": "Tuberculosis disease is treated with special antibiotics. Treatment is recommended for both TB infection and disease. The most common antibiotics used are: isoniazid rifampicin pyrazinamide ethambutol. To be effective, medications need to be taken daily for 4-6 months. It is dangerous to stop the medications early or without medical advice as it can prompt TB bacteria in the body to become resistant to the drugs. TB that doesn't respond to standard drugs is called drug-resistant TB and requires treatment with different medicines.",
+          "qas": [
+            {
+              "id": "ctx_treatment_762c0f24_264888022",
+              "question": "What is the treatment for treatment?",
+              "answers": [
+                {
+                  "text": "special antibiotics",
+                  "answer_start": 37
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ctx_treatment_4ef3224f",
+      "paragraphs": [
+        {
+          "context": "Typhoid fever can be treated with antibiotics. Antimicrobial resistance is common with likelihood of more complicated and expensive treatment options required in the most affected regions. Even when the symptoms go away, people may still be carrying typhoid bacteria, meaning they can spread it to others, through shedding of bacteria in their faeces. It is important for people being treated for typhoid fever to do the following: Take prescribed antibiotics for as long as the doctor has prescribed. Wash their hands with soap and water after using the bathroom and avoid preparing or serving food for other people. This will lower the chance of passing the infection on to someone else. Have their doctor test to ensure that no Salmonella Typhi bacteria remain in their body.",
+          "qas": [
+            {
+              "id": "ctx_treatment_4ef3224f_264888022",
+              "question": "What is the treatment for treatment?",
+              "answers": [
+                {
+                  "text": "antibiotics",
+                  "answer_start": 34
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

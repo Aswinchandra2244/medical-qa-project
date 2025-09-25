@@ -1,0 +1,14 @@
+{
+  "timestamp_utc": "2025-09-22T18:18:30Z",
+  "python": "3.12.11",
+  "torch": "2.8.0+cu126",
+  "cuda_available": true,
+  "device": "NVIDIA L4",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "pyarrow": "21.0.0",
+  "sklearn": "1.5.2",
+  "transformers": "4.44.2",
+  "datasets": "4.1.1",
+  "evaluate": "0.4.2"
+}

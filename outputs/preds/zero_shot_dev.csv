@@ -1,0 +1,20 @@
+id,prediction_text
+ctx_signs_and_symptoms_in_humans_b0a0d0c2_866196374,"infection and disease in humans, ranging from mild, flu-like symptoms or eye inflammation to severe, acute respiratory disease and/or death"
+ctx_vibrio_cholerae_strains_16b837a4_244434754,O1
+ctx_global_task_force_on_cholera_con_4e68f3e9_328956681,"a partnership of governmental and nongovernmental organizations, UN agencies and academic institutions"
+ctx_prevention_e1ce8c9c_793057805,avoid crowds and keep a safe distance from others
+ctx_complications_of_uncontrolled_hy_6663a9b2_579166364,serious damage to the heart
+ctx_symptoms_438de0ba_616138668,"fever, headache and chills"
+ctx_overview_1be01ac0_516200917,inflammation and muscle tightening around the airways
+ctx_symptoms_c940acd0_71935024,Symptoms can be caused by other conditions
+ctx_symptoms_c940acd0_616138668,"a persistent cough, especially at night wheezing when exhaling and sometimes when inhaling"
+ctx_overview_7766f728_516200917,"poor nutrition, infections, chronic diseases, heavy menstruation, pregnancy issues and family history"
+ctx_treatment_and_prevention_dd9e267a_2455454,the underlying cause of the condition
+ctx_nipah_virus_in_domestic_animals_cb347373_289780290,"acute feverish illness, labored breathing, and neurological symptoms such as trembling, twitching and muscle spasms"
+ctx_plague_5541b695_601388514,"an infectious disease caused by the bacteria Yersinia pestis, a zoonotic bacteria"
+ctx_plague_5541b695_564433630,bacteria Yersinia pestis
+ctx_plague_5541b695_675638307,antibiotics
+ctx_overview_1aaecd9a_516200917,Salmonella Typhi
+ctx_overview_1aaecd9a_914031597,through contaminated food or water
+ctx_treatment_4ef3224f_264888022,antibiotics
+ctx_treatment_762c0f24_264888022,antibiotics
